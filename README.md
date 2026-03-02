@@ -22,6 +22,8 @@ CSS
 Vitest / Angular Testing Utilities
 
 📁 Project Structure
+
+
 <img width="290" height="216" alt="image" src="https://github.com/user-attachments/assets/607b3989-488f-42fd-b86f-400e4a52a712" />
 
 
@@ -67,4 +69,5 @@ Unit tests written where they add real value
 
 👤 Author
 Developed as part of a professional Angular assignment, demonstrating practical frontend architecture, modern Angular patterns, and effective unit testing.
+
 
